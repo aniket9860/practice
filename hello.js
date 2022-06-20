@@ -11,3 +11,9 @@ function mul(x,y) {
 }
 
 sub(5,20)
+
+function mod(x,y) {
+    console.log(x%y)
+}
+
+sub(5,20)
